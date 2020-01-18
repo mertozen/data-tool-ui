@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
-
 # dependencies
 /node_modules
 /.pnp
@@ -127,4 +124,3 @@ dist
 
 # TernJS port file
 .tern-port
->>>>>>> a945a093fc454cc53513ebc41af95c9a7d4cc0e5
